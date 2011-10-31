@@ -1,4 +1,4 @@
-This is a wrapper based upon <a href='http://textcat.sourceforge.net/'>http://textcat.sourceforge.net/</a>.
+This is a wrapper based upon http://textcat.sourceforge.net/
 It is part of the STITCHplus project.
 
 The module makes it possible to detect a language of a given input text via HTTP.
